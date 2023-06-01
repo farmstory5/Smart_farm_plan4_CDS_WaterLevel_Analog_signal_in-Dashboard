@@ -4,7 +4,7 @@
 
 ### 개요
 <p>
-<img src="https://github.com/farmstory5/Smart_farm_plan4_CDS_WaterLevel_Analog_signal_in-Dashboard/assets/130550405/ae026275-5de2-43a5-ab3d-6c16fa583b7c">
+<img src="https://github.com/farmstory5/Smart_farm_plan4_CDS_WaterLevel_Analog_signal_in-Dashboard/assets/130550405/1ced2b98-ab9b-4bbd-9a42-1e828f79dffd">
 </p>
 <br/><br/>
 Node-red 대시보드 ui에 조도센서측정기능을 추가하였습니다.(오류)<br/>
