@@ -51,6 +51,6 @@ Arduino 보드- Uno 포트 - /dev/ttyACM0, Arduino 1. 8. 19 ver, StandardFirmata
 
 ### 구현 영상
 <p align="center">
-<img src="https://github.com/farmstory5/Smart_farm_plan2_Node-red_dashboard/assets/130550405/91432796-efce-4379-813d-2c7d676ca6e5">
+<img src="https://github.com/farmstory5/Smart_farm_plan4_CDS_WaterLevel_Analog_signal_in-Dashboard/assets/130550405/3cfd1ded-284a-476d-ad9f-41101c76d4b9">
 </p>
 https://www.youtube.com/watch?v=134TiywJLuI
