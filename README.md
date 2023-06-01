@@ -6,7 +6,7 @@
 <p>
 <img src="https://github.com/farmstory5/Smart_farm_plan4_CDS_WaterLevel_Analog_signal_in-Dashboard/assets/130550405/1ced2b98-ab9b-4bbd-9a42-1e828f79dffd">
 </p>
-<br/><br/>
+<br/>
 Node-red 대시보드 ui에 조도값, 수분감지값 측정기능을 추가하였습니다.<br/>
 추후에 ADC컨버터 MCP3008을 사용하여 라즈베리파이 임베디드시스템에서 동작할 수 있도록 해보겠습니다. <br/>
 
