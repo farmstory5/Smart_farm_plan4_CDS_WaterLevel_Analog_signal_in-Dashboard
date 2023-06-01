@@ -53,4 +53,4 @@ Arduino 보드- Uno 포트 - /dev/ttyACM0, Arduino 1. 8. 19 ver, StandardFirmata
 <p align="center">
 <img src="https://github.com/farmstory5/Smart_farm_plan4_CDS_WaterLevel_Analog_signal_in-Dashboard/assets/130550405/3cfd1ded-284a-476d-ad9f-41101c76d4b9">
 </p>
-https://www.youtube.com/watch?v=134TiywJLuI
+https://www.youtube.com/watch?v=XJauFSmqxDs&list=PL6eTMuAQkpIIqmaPZM9ysZ-hKNT0LrCyx&index=5
